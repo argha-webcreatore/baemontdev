@@ -18,7 +18,7 @@ jobs:
 
       - name: 🔨 Build Project
         run: |
-          npm install
+          npm --force install
           npm run build
 
       - name: 📂 Sync files
