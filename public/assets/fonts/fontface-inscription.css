@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Candlescript Demo Version';
+    src: url('CandlescriptDemoVersion.woff2') format('woff2'),
+        url('CandlescriptDemoVersion.woff') format('woff'),
+        url('CandlescriptDemoVersion.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'El Messiri';
+    src: url('ElMessiri-Regular.woff2') format('woff2'),
+        url('ElMessiri-Regular.woff') format('woff'),
+        url('ElMessiri-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
